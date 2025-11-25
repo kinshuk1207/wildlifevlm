@@ -1,0 +1,40 @@
+Sample_1
+Product Type: Animal fibers
+            Species: Cyprian wild sheep
+
+Sample_2
+Product Type: Animal parts (fleshy)
+Species: Broad-snouted caiman
+
+Sample_3
+Product Type: Food
+            Species: Four-toothed whale (Mesoplodon bidens)
+
+Sample_4
+Product Type: Live
+            Species: Otter (Lutra canadensis)
+
+Sample_5
+Product Type: Food
+Species: Madagascar flat-shelled tortoise
+
+Sample_6
+Product Type: Skin or leather products
+Species: Crocodile
+
+Sample_7
+Product Type: Animal parts (bone or bone-like)
+Species: Human
+
+Sample_8
+Product Type: Animal parts (fleshy)
+Species: Human
+
+Sample_9
+Product Type: Food
+Species: Homo sapiens
+
+Sample_10
+Product Type: Animal parts (bone or bone-like)
+Species: Meerkat
+

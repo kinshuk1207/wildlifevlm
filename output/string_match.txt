@@ -1,0 +1,4520 @@
+Sample_1
+Product Type: Unknown
+Species: wild sheep
+
+Sample_2
+Product Type: Unknown
+Species: broad-snouted caiman
+
+Sample_3
+Product Type: Unknown
+Species: four-toothed whale
+
+Sample_4
+Product Type: Unknown
+Species: cameroon clawless otter
+
+Sample_5
+Product Type: Unknown
+Species: tortoise
+
+Sample_6
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_7
+Product Type: Animal parts (bone or bone-like)
+Species: human
+
+Sample_8
+Product Type: Animal parts (bone or bone-like)
+Species: human
+
+Sample_9
+Product Type: Unknown
+Species: mal
+
+Sample_10
+Product Type: Animal parts (bone or bone-like)
+Species: meerkat
+
+Sample_11
+Product Type: Unknown
+Species: extinct
+
+Sample_12
+Product Type: Unknown
+Species: dill
+
+Sample_13
+Product Type: Unknown
+Species: rhinoceros
+
+Sample_14
+Product Type: Animal fibers
+Species: hern
+
+Sample_15
+Product Type: Animal fibers
+Species: raccoon
+
+Sample_16
+Product Type: Unknown
+Species: otter
+
+Sample_17
+Product Type: Unknown
+Species: red siskin
+
+Sample_18
+Product Type: Unknown
+Species: horses
+
+Sample_19
+Product Type: Unknown
+Species: rabbit
+
+Sample_20
+Product Type: Unknown
+Species: tiro
+
+Sample_21
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_22
+Product Type: Unknown
+Species: chinchilla
+
+Sample_23
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_24
+Product Type: Animal fibers
+Species: parrot
+
+Sample_25
+Product Type: Taxidermy
+Species: mule deer
+
+Sample_26
+Product Type: Taxidermy
+Species: white
+
+Sample_27
+Product Type: Taxidermy
+Species: mule deer
+
+Sample_28
+Product Type: Taxidermy
+Species: white
+
+Sample_29
+Product Type: Taxidermy
+Species: white
+
+Sample_30
+Product Type: Taxidermy
+Species: white
+
+Sample_31
+Product Type: Taxidermy
+Species: white
+
+Sample_32
+Product Type: Unknown
+Species: oyster
+
+Sample_33
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_34
+Product Type: Unknown
+Species: leopard
+
+Sample_35
+Product Type: Unknown
+Species: coco
+
+Sample_36
+Product Type: Taxidermy
+Species: mule deer
+
+Sample_37
+Product Type: Taxidermy
+Species: mule deer
+
+Sample_38
+Product Type: Taxidermy
+Species: mule deer
+
+Sample_39
+Product Type: Taxidermy
+Species: antler
+
+Sample_40
+Product Type: Taxidermy
+Species: antler
+
+Sample_41
+Product Type: Taxidermy
+Species: antler
+
+Sample_42
+Product Type: Taxidermy
+Species: white
+
+Sample_43
+Product Type: Taxidermy
+Species: white
+
+Sample_44
+Product Type: Unknown
+Species: black
+
+Sample_45
+Product Type: Animal parts (bone or bone-like)
+Species: duck-billed platypus
+
+Sample_46
+Product Type: Animal parts (bone or bone-like)
+Species: water buffalo
+
+Sample_47
+Product Type: Animal parts (bone or bone-like)
+Species: flying lemur
+
+Sample_48
+Product Type: Animal parts (bone or bone-like)
+Species: drill
+
+Sample_49
+Product Type: Unknown
+Species: hen
+
+Sample_50
+Product Type: Unknown
+Species: trout
+
+Sample_51
+Product Type: Unknown
+Species: snub
+
+Sample_52
+Product Type: Taxidermy
+Species: white
+
+Sample_53
+Product Type: Unknown
+Species: mangrove snake
+
+Sample_54
+Product Type: Animal parts (bone or bone-like)
+Species: jaguar
+
+Sample_55
+Product Type: Animal parts (bone or bone-like)
+Species: cat
+
+Sample_56
+Product Type: Unknown
+Species: whale
+
+Sample_57
+Product Type: Unknown
+Species: crocodile
+
+Sample_58
+Product Type: Taxidermy
+Species: mule deer
+
+Sample_59
+Product Type: Taxidermy
+Species: white
+
+Sample_60
+Product Type: Skin or leather products
+Species: snake
+
+Sample_61
+Product Type: Unknown
+Species: mangrove snake
+
+Sample_62
+Product Type: Unknown
+Species: black
+
+Sample_63
+Product Type: Unknown
+Species: python
+
+Sample_64
+Product Type: Unknown
+Species: oriental ratsnake
+
+Sample_65
+Product Type: Skin or leather products
+Species: python
+
+Sample_66
+Product Type: Animal parts (bone or bone-like)
+Species: african lion
+
+Sample_67
+Product Type: Animal parts (bone or bone-like)
+Species: sabertooth
+
+Sample_68
+Product Type: Unknown
+Species: ganges river dolphin
+
+Sample_69
+Product Type: Animal parts (bone or bone-like)
+Species: tiger
+
+Sample_70
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_71
+Product Type: Animal fibers
+Species: pheasant
+
+Sample_72
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_73
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_74
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_75
+Product Type: Unknown
+Species: chicken
+
+Sample_76
+Product Type: Unknown
+Species: mountain sheep
+
+Sample_77
+Product Type: Unknown
+Species: muflon
+
+Sample_78
+Product Type: Skin or leather products
+Species: cobra
+
+Sample_79
+Product Type: Skin or leather products
+Species: python
+
+Sample_80
+Product Type: Skin or leather products
+Species: python
+
+Sample_81
+Product Type: Taxidermy
+Species: white
+
+Sample_82
+Product Type: Skin or leather products
+Species: cobra
+
+Sample_83
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_84
+Product Type: Animal fibers
+Species: leopard
+
+Sample_85
+Product Type: Unknown
+Species: chinchilla
+
+Sample_86
+Product Type: Unknown
+Species: caiman
+
+Sample_87
+Product Type: Unknown
+Species: lowe
+
+Sample_88
+Product Type: Taxidermy
+Species: white
+
+Sample_89
+Product Type: Taxidermy
+Species: beaver
+
+Sample_90
+Product Type: Taxidermy
+Species: grey fox
+
+Sample_91
+Product Type: Animal parts (bone or bone-like)
+Species: african leopard
+
+Sample_92
+Product Type: Unknown
+Species: maning
+
+Sample_93
+Product Type: Unknown
+Species: brown lemur
+
+Sample_94
+Product Type: Unknown
+Species: ren
+
+Sample_95
+Product Type: Animal parts (bone or bone-like)
+Species: great horned owl
+
+Sample_96
+Product Type: Skin or leather products
+Species: cow
+
+Sample_97
+Product Type: Unknown
+Species: human
+
+Sample_98
+Product Type: Skin or leather products
+Species: horse
+
+Sample_99
+Product Type: Taxidermy
+Species: grizzly bear
+
+Sample_100
+Product Type: Unknown
+Species: roe deer
+
+Sample_101
+Product Type: Unknown
+Species: black cherry
+
+Sample_102
+Product Type: Unknown
+Species: pig
+
+Sample_103
+Product Type: Unknown
+Species: bay
+
+Sample_104
+Product Type: Unknown
+Species: aroma
+
+Sample_105
+Product Type: Skin or leather products
+Species: caiman
+
+Sample_106
+Product Type: Unknown
+Species: long-nosed bandicoot
+
+Sample_107
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_108
+Product Type: Animal parts (bone or bone-like)
+Species: morrison
+
+Sample_109
+Product Type: Animal parts (bone or bone-like)
+Species: euro
+
+Sample_110
+Product Type: Unknown
+Species: large
+
+Sample_111
+Product Type: Taxidermy
+Species: white
+
+Sample_112
+Product Type: Unknown
+Species: urus
+
+Sample_113
+Product Type: Unknown
+Species: horses
+
+Sample_114
+Product Type: Unknown
+Species: alligator
+
+Sample_115
+Product Type: Unknown
+Species: roble
+
+Sample_116
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_117
+Product Type: Animal fibers
+Species: cockatoo
+
+Sample_118
+Product Type: Taxidermy
+Species: turkey
+
+Sample_119
+Product Type: Taxidermy
+Species: boa constrictor
+
+Sample_120
+Product Type: Taxidermy
+Species: wild boar
+
+Sample_121
+Product Type: Unknown
+Species: muflon
+
+Sample_122
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_123
+Product Type: Unknown
+Species: killer whale
+
+Sample_124
+Product Type: Unknown
+Species: lizard
+
+Sample_125
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_126
+Product Type: Unknown
+Species: wild sheep
+
+Sample_127
+Product Type: Animal fibers
+Species: himalayan monal
+
+Sample_128
+Product Type: Taxidermy
+Species: grizzly bear
+
+Sample_129
+Product Type: Unknown
+Species: human
+
+Sample_130
+Product Type: Unknown
+Species: mate
+
+Sample_131
+Product Type: Animal fibers
+Species: rabbit
+
+Sample_132
+Product Type: Unknown
+Species: terns
+
+Sample_133
+Product Type: Unknown
+Species: tortoise
+
+Sample_134
+Product Type: Unknown
+Species: lizard
+
+Sample_135
+Product Type: Animal parts (bone or bone-like)
+Species: sabertooth
+
+Sample_136
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_137
+Product Type: Skin or leather products
+Species: jack
+
+Sample_138
+Product Type: Animal parts (bone or bone-like)
+Species: wolf
+
+Sample_139
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_140
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_141
+Product Type: Skin or leather products
+Species: boa constrictor
+
+Sample_142
+Product Type: Animal parts (bone or bone-like)
+Species: horse
+
+Sample_143
+Product Type: Animal parts (bone or bone-like)
+Species: whale
+
+Sample_144
+Product Type: Taxidermy
+Species: white
+
+Sample_145
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_146
+Product Type: Animal parts (bone or bone-like)
+Species: sperm whale
+
+Sample_147
+Product Type: Unknown
+Species: deer
+
+Sample_148
+Product Type: Taxidermy
+Species: grizzly bear
+
+Sample_149
+Product Type: Animal parts (bone or bone-like)
+Species: human
+
+Sample_150
+Product Type: Animal parts (bone or bone-like)
+Species: bengal tiger
+
+Sample_151
+Product Type: Unknown
+Species: peyote
+
+Sample_152
+Product Type: Animal parts (bone or bone-like)
+Species: sperm whale
+
+Sample_153
+Product Type: Unknown
+Species: chinese
+
+Sample_154
+Product Type: Unknown
+Species: human
+
+Sample_155
+Product Type: Animal parts (bone or bone-like)
+Species: Unknown
+
+Sample_156
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_157
+Product Type: Animal parts (bone or bone-like)
+Species: hog deer
+
+Sample_158
+Product Type: Animal parts (bone or bone-like)
+Species: monkey
+
+Sample_159
+Product Type: Animal fibers
+Species: blue jay
+
+Sample_160
+Product Type: Unknown
+Species: black
+
+Sample_161
+Product Type: Animal fibers
+Species: oat
+
+Sample_162
+Product Type: Unknown
+Species: green jack
+
+Sample_163
+Product Type: Animal fibers
+Species: wolf
+
+Sample_164
+Product Type: Animal fibers
+Species: pheasant
+
+Sample_165
+Product Type: Animal fibers
+Species: pheasant
+
+Sample_166
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_167
+Product Type: Taxidermy
+Species: wolverine
+
+Sample_168
+Product Type: Animal parts (bone or bone-like)
+Species: american beaver
+
+Sample_169
+Product Type: Animal parts (bone or bone-like)
+Species: water buffalo
+
+Sample_170
+Product Type: Unknown
+Species: vervet
+
+Sample_171
+Product Type: Animal parts (bone or bone-like)
+Species: ant
+
+Sample_172
+Product Type: Unknown
+Species: crocodile
+
+Sample_173
+Product Type: Unknown
+Species: buck
+
+Sample_174
+Product Type: Skin or leather products
+Species: burchell's zebra
+
+Sample_175
+Product Type: Shells
+Species: leopard
+
+Sample_176
+Product Type: Shells
+Species: leopard
+
+Sample_177
+Product Type: Unknown
+Species: deer
+
+Sample_178
+Product Type: Skin or leather products
+Species: siamese crocodile
+
+Sample_179
+Product Type: Skin or leather products
+Species: butt
+
+Sample_180
+Product Type: Unknown
+Species: knife
+
+Sample_181
+Product Type: Unknown
+Species: deer
+
+Sample_182
+Product Type: Unknown
+Species: common brown lemur
+
+Sample_183
+Product Type: Unknown
+Species: chinchilla
+
+Sample_184
+Product Type: Unknown
+Species: leopard
+
+Sample_185
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_186
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_187
+Product Type: Animal parts (bone or bone-like)
+Species: mulet
+
+Sample_188
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_189
+Product Type: Animal fibers
+Species: grey
+
+Sample_190
+Product Type: Unknown
+Species: new zealand
+
+Sample_191
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_192
+Product Type: Unknown
+Species: river otter
+
+Sample_193
+Product Type: Animal fibers
+Species: wolf
+
+Sample_194
+Product Type: Unknown
+Species: bay
+
+Sample_195
+Product Type: Taxidermy
+Species: beaver
+
+Sample_196
+Product Type: Taxidermy
+Species: beaver
+
+Sample_197
+Product Type: Animal fibers
+Species: leather jacket
+
+Sample_198
+Product Type: Unknown
+Species: crocodile
+
+Sample_199
+Product Type: Unknown
+Species: knife
+
+Sample_200
+Product Type: Taxidermy
+Species: white
+
+Sample_201
+Product Type: Taxidermy
+Species: white
+
+Sample_202
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_203
+Product Type: Taxidermy
+Species: antler
+
+Sample_204
+Product Type: Skin or leather products
+Species: python
+
+Sample_205
+Product Type: Unknown
+Species: flea
+
+Sample_206
+Product Type: Animal fibers
+Species: macaw
+
+Sample_207
+Product Type: Animal fibers
+Species: yellow feathers
+
+Sample_208
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_209
+Product Type: Unknown
+Species: coco
+
+Sample_210
+Product Type: Taxidermy
+Species: wolverine
+
+Sample_211
+Product Type: Taxidermy
+Species: wolverine
+
+Sample_212
+Product Type: Animal parts (bone or bone-like)
+Species: hog deer
+
+Sample_213
+Product Type: Taxidermy
+Species: white
+
+Sample_214
+Product Type: Unknown
+Species: animal
+
+Sample_215
+Product Type: Taxidermy
+Species: white
+
+Sample_216
+Product Type: Unknown
+Species: coco
+
+Sample_217
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_218
+Product Type: Taxidermy
+Species: mule deer
+
+Sample_219
+Product Type: Unknown
+Species: wild sheep
+
+Sample_220
+Product Type: Unknown
+Species: broad-snouted caiman
+
+Sample_221
+Product Type: Unknown
+Species: four-toothed whale
+
+Sample_222
+Product Type: Unknown
+Species: cameroon clawless otter
+
+Sample_223
+Product Type: Unknown
+Species: tortoise
+
+Sample_224
+Product Type: Unknown
+Species: black
+
+Sample_225
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_226
+Product Type: Unknown
+Species: crocodile
+
+Sample_227
+Product Type: Unknown
+Species: grasshopper
+
+Sample_228
+Product Type: Skin or leather products
+Species: soles
+
+Sample_229
+Product Type: Unknown
+Species: extinct
+
+Sample_230
+Product Type: Unknown
+Species: dill
+
+Sample_231
+Product Type: Unknown
+Species: black
+
+Sample_232
+Product Type: Animal fibers
+Species: hern
+
+Sample_233
+Product Type: Skin or leather products
+Species: ou
+
+Sample_234
+Product Type: Animal fibers
+Species: raccoon
+
+Sample_235
+Product Type: Unknown
+Species: otter
+
+Sample_236
+Product Type: Animal parts (bone or bone-like)
+Species: urus
+
+Sample_237
+Product Type: Unknown
+Species: sheep
+
+Sample_238
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_239
+Product Type: Unknown
+Species: horses
+
+Sample_240
+Product Type: Unknown
+Species: rabbit
+
+Sample_241
+Product Type: Unknown
+Species: apple
+
+Sample_242
+Product Type: Unknown
+Species: dog tail
+
+Sample_243
+Product Type: Unknown
+Species: tiro
+
+Sample_244
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_245
+Product Type: Unknown
+Species: trout
+
+Sample_246
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_247
+Product Type: Unknown
+Species: chinchilla
+
+Sample_248
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_249
+Product Type: Animal parts (bone or bone-like)
+Species: dusky shark
+
+Sample_250
+Product Type: Skin or leather products
+Species: sheep
+
+Sample_251
+Product Type: Unknown
+Species: rabbit
+
+Sample_252
+Product Type: Unknown
+Species: african
+
+Sample_253
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_254
+Product Type: Animal fibers
+Species: parrot
+
+Sample_255
+Product Type: Taxidermy
+Species: mule deer
+
+Sample_256
+Product Type: Taxidermy
+Species: white
+
+Sample_257
+Product Type: Taxidermy
+Species: mule deer
+
+Sample_258
+Product Type: Taxidermy
+Species: white
+
+Sample_259
+Product Type: Taxidermy
+Species: white
+
+Sample_260
+Product Type: Taxidermy
+Species: white
+
+Sample_261
+Product Type: Taxidermy
+Species: white
+
+Sample_262
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_263
+Product Type: Egg
+Species: stock
+
+Sample_264
+Product Type: Taxidermy
+Species: mule deer
+
+Sample_265
+Product Type: Taxidermy
+Species: mule deer
+
+Sample_266
+Product Type: Taxidermy
+Species: mule deer
+
+Sample_267
+Product Type: Taxidermy
+Species: antler
+
+Sample_268
+Product Type: Taxidermy
+Species: antler
+
+Sample_269
+Product Type: Taxidermy
+Species: white
+
+Sample_270
+Product Type: Taxidermy
+Species: white
+
+Sample_271
+Product Type: Unknown
+Species: black
+
+Sample_272
+Product Type: Animal parts (bone or bone-like)
+Species: water buffalo
+
+Sample_273
+Product Type: Animal parts (bone or bone-like)
+Species: drill
+
+Sample_274
+Product Type: Unknown
+Species: anatolian sheep
+
+Sample_275
+Product Type: Unknown
+Species: hen
+
+Sample_276
+Product Type: Taxidermy
+Species: mule deer
+
+Sample_277
+Product Type: Animal parts (bone or bone-like)
+Species: wild boar
+
+Sample_278
+Product Type: Unknown
+Species: ide
+
+Sample_279
+Product Type: Unknown
+Species: python
+
+Sample_280
+Product Type: Unknown
+Species: zona
+
+Sample_281
+Product Type: Taxidermy
+Species: white
+
+Sample_282
+Product Type: Unknown
+Species: mangrove snake
+
+Sample_283
+Product Type: Unknown
+Species: whale
+
+Sample_284
+Product Type: Skin or leather products
+Species: cane toad
+
+Sample_285
+Product Type: Skin or leather products
+Species: ou
+
+Sample_286
+Product Type: Unknown
+Species: black
+
+Sample_287
+Product Type: Unknown
+Species: vampiro
+
+Sample_288
+Product Type: Taxidermy
+Species: mule deer
+
+Sample_289
+Product Type: Taxidermy
+Species: white
+
+Sample_290
+Product Type: Skin or leather products
+Species: snake
+
+Sample_291
+Product Type: Unknown
+Species: mangrove snake
+
+Sample_292
+Product Type: Unknown
+Species: black
+
+Sample_293
+Product Type: Unknown
+Species: python
+
+Sample_294
+Product Type: Unknown
+Species: oriental ratsnake
+
+Sample_295
+Product Type: Animal parts (bone or bone-like)
+Species: oo
+
+Sample_296
+Product Type: Animal parts (bone or bone-like)
+Species: tiger
+
+Sample_297
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_298
+Product Type: Animal fibers
+Species: pheasant
+
+Sample_299
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_300
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_301
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_302
+Product Type: Unknown
+Species: mountain sheep
+
+Sample_303
+Product Type: Unknown
+Species: muflon
+
+Sample_304
+Product Type: Skin or leather products
+Species: cobra
+
+Sample_305
+Product Type: Skin or leather products
+Species: python
+
+Sample_306
+Product Type: Taxidermy
+Species: white
+
+Sample_307
+Product Type: Animal fibers
+Species: leopard
+
+Sample_308
+Product Type: Animal parts (bone or bone-like)
+Species: urus
+
+Sample_309
+Product Type: Unknown
+Species: chinchilla
+
+Sample_310
+Product Type: Unknown
+Species: tern
+
+Sample_311
+Product Type: Unknown
+Species: caiman
+
+Sample_312
+Product Type: Taxidermy
+Species: white
+
+Sample_313
+Product Type: Taxidermy
+Species: beaver
+
+Sample_314
+Product Type: Taxidermy
+Species: grey fox
+
+Sample_315
+Product Type: Unknown
+Species: ren
+
+Sample_316
+Product Type: Unknown
+Species: gran
+
+Sample_317
+Product Type: Skin or leather products
+Species: cow
+
+Sample_318
+Product Type: Taxidermy
+Species: grizzly bear
+
+Sample_319
+Product Type: Unknown
+Species: roe deer
+
+Sample_320
+Product Type: Unknown
+Species: black cherry
+
+Sample_321
+Product Type: Unknown
+Species: pig
+
+Sample_322
+Product Type: Unknown
+Species: bay
+
+Sample_323
+Product Type: Unknown
+Species: rabbit
+
+Sample_324
+Product Type: Unknown
+Species: aroma
+
+Sample_325
+Product Type: Skin or leather products
+Species: caiman
+
+Sample_326
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_327
+Product Type: Animal parts (bone or bone-like)
+Species: euro
+
+Sample_328
+Product Type: Skin or leather products
+Species: boa constrictor
+
+Sample_329
+Product Type: Unknown
+Species: large
+
+Sample_330
+Product Type: Taxidermy
+Species: white
+
+Sample_331
+Product Type: Skin or leather products
+Species: Unknown
+
+Sample_332
+Product Type: Animal fibers
+Species: parrot
+
+Sample_333
+Product Type: Unknown
+Species: roble
+
+Sample_334
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_335
+Product Type: Unknown
+Species: black
+
+Sample_336
+Product Type: Animal fibers
+Species: cockatoo
+
+Sample_337
+Product Type: Taxidermy
+Species: turkey
+
+Sample_338
+Product Type: Taxidermy
+Species: boa constrictor
+
+Sample_339
+Product Type: Taxidermy
+Species: wild boar
+
+Sample_340
+Product Type: Unknown
+Species: muflon
+
+Sample_341
+Product Type: Egg
+Species: chicken
+
+Sample_342
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_343
+Product Type: Unknown
+Species: lizard
+
+Sample_344
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_345
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_346
+Product Type: Unknown
+Species: wild sheep
+
+Sample_347
+Product Type: Animal fibers
+Species: himalayan monal
+
+Sample_348
+Product Type: Taxidermy
+Species: grizzly bear
+
+Sample_349
+Product Type: Unknown
+Species: mate
+
+Sample_350
+Product Type: Animal fibers
+Species: rabbit
+
+Sample_351
+Product Type: Unknown
+Species: bear
+
+Sample_352
+Product Type: Unknown
+Species: black
+
+Sample_353
+Product Type: Animal parts (bone or bone-like)
+Species: sabertooth
+
+Sample_354
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_355
+Product Type: Skin or leather products
+Species: jack
+
+Sample_356
+Product Type: Unknown
+Species: gran
+
+Sample_357
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_358
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_359
+Product Type: Skin or leather products
+Species: boa constrictor
+
+Sample_360
+Product Type: Taxidermy
+Species: white
+
+Sample_361
+Product Type: Taxidermy
+Species: grizzly bear
+
+Sample_362
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_363
+Product Type: Unknown
+Species: peyote
+
+Sample_364
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_365
+Product Type: Unknown
+Species: pluma
+
+Sample_366
+Product Type: Animal parts (bone or bone-like)
+Species: monkey
+
+Sample_367
+Product Type: Animal fibers
+Species: blue jay
+
+Sample_368
+Product Type: Skin or leather products
+Species: boa constrictor
+
+Sample_369
+Product Type: Animal fibers
+Species: oat
+
+Sample_370
+Product Type: Unknown
+Species: butterfly
+
+Sample_371
+Product Type: Animal fibers
+Species: wolf
+
+Sample_372
+Product Type: Animal parts (bone or bone-like)
+Species: water buffalo
+
+Sample_373
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_374
+Product Type: Animal fibers
+Species: pheasant
+
+Sample_375
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_376
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_377
+Product Type: Taxidermy
+Species: wolverine
+
+Sample_378
+Product Type: Animal parts (bone or bone-like)
+Species: water buffalo
+
+Sample_379
+Product Type: Unknown
+Species: vervet
+
+Sample_380
+Product Type: Unknown
+Species: crocodile
+
+Sample_381
+Product Type: Unknown
+Species: buck
+
+Sample_382
+Product Type: Skin or leather products
+Species: burchell's zebra
+
+Sample_383
+Product Type: Shells
+Species: leopard
+
+Sample_384
+Product Type: Shells
+Species: leopard
+
+Sample_385
+Product Type: Unknown
+Species: deer
+
+Sample_386
+Product Type: Skin or leather products
+Species: siamese crocodile
+
+Sample_387
+Product Type: Skin or leather products
+Species: butt
+
+Sample_388
+Product Type: Unknown
+Species: pluma
+
+Sample_389
+Product Type: Unknown
+Species: snake
+
+Sample_390
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_391
+Product Type: Unknown
+Species: chinchilla
+
+Sample_392
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_393
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_394
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_395
+Product Type: Animal parts (bone or bone-like)
+Species: mulet
+
+Sample_396
+Product Type: Unknown
+Species: musk deer
+
+Sample_397
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_398
+Product Type: Unknown
+Species: black
+
+Sample_399
+Product Type: Animal fibers
+Species: grey
+
+Sample_400
+Product Type: Unknown
+Species: new zealand
+
+Sample_401
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_402
+Product Type: Unknown
+Species: river otter
+
+Sample_403
+Product Type: Unknown
+Species: bay
+
+Sample_404
+Product Type: Taxidermy
+Species: beaver
+
+Sample_405
+Product Type: Unknown
+Species: dill
+
+Sample_406
+Product Type: Animal fibers
+Species: leather jacket
+
+Sample_407
+Product Type: Unknown
+Species: crocodile
+
+Sample_408
+Product Type: Animal parts (bone or bone-like)
+Species: mulet
+
+Sample_409
+Product Type: Taxidermy
+Species: white
+
+Sample_410
+Product Type: Unknown
+Species: butterfly
+
+Sample_411
+Product Type: Taxidermy
+Species: antler
+
+Sample_412
+Product Type: Skin or leather products
+Species: python
+
+Sample_413
+Product Type: Animal fibers
+Species: macaw
+
+Sample_414
+Product Type: Animal fibers
+Species: yellow feathers
+
+Sample_415
+Product Type: Egg
+Species: ostrich
+
+Sample_416
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_417
+Product Type: Unknown
+Species: coco
+
+Sample_418
+Product Type: Taxidermy
+Species: wolverine
+
+Sample_419
+Product Type: Animal parts (bone or bone-like)
+Species: hog deer
+
+Sample_420
+Product Type: Taxidermy
+Species: white
+
+Sample_421
+Product Type: Unknown
+Species: coco
+
+Sample_422
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_423
+Product Type: Unknown
+Species: marron
+
+Sample_424
+Product Type: Taxidermy
+Species: mule deer
+
+Sample_425
+Product Type: Skin or leather products
+Species: bronze
+
+Sample_426
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_427
+Product Type: Animal fibers
+Species: pheasant
+
+Sample_428
+Product Type: Animal fibers
+Species: sheep
+
+Sample_429
+Product Type: Unknown
+Species: crocodile
+
+Sample_430
+Product Type: Unknown
+Species: white
+
+Sample_431
+Product Type: Animal fibers
+Species: parrot
+
+Sample_432
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_433
+Product Type: Unknown
+Species: ide
+
+Sample_434
+Product Type: Skin or leather products
+Species: siamese crocodile
+
+Sample_435
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_436
+Product Type: Unknown
+Species: bay
+
+Sample_437
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_438
+Product Type: Unknown
+Species: crocodile
+
+Sample_439
+Product Type: Unknown
+Species: large
+
+Sample_440
+Product Type: Unknown
+Species: peyote
+
+Sample_441
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_442
+Product Type: Unknown
+Species: pluma
+
+Sample_443
+Product Type: Unknown
+Species: negro
+
+Sample_444
+Product Type: Unknown
+Species: kasturi
+
+Sample_445
+Product Type: Unknown
+Species: red
+
+Sample_446
+Product Type: Animal parts (bone or bone-like)
+Species: wild boar
+
+Sample_447
+Product Type: Unknown
+Species: rabbit
+
+Sample_448
+Product Type: Animal fibers
+Species: red tail
+
+Sample_449
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_450
+Product Type: Animal parts (bone or bone-like)
+Species: water buffalo
+
+Sample_451
+Product Type: Unknown
+Species: bobcat
+
+Sample_452
+Product Type: Unknown
+Species: gray fox
+
+Sample_453
+Product Type: Animal fibers
+Species: parrot
+
+Sample_454
+Product Type: Skin or leather products
+Species: siamese crocodile
+
+Sample_455
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_456
+Product Type: Unknown
+Species: chicken
+
+Sample_457
+Product Type: Unknown
+Species: black
+
+Sample_458
+Product Type: Unknown
+Species: beaver
+
+Sample_459
+Product Type: Unknown
+Species: goat
+
+Sample_460
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_461
+Product Type: Skin or leather products
+Species: sheep
+
+Sample_462
+Product Type: Unknown
+Species: sturgeon
+
+Sample_463
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_464
+Product Type: Unknown
+Species: black
+
+Sample_465
+Product Type: Unknown
+Species: birds
+
+Sample_466
+Product Type: Skin or leather products
+Species: jack
+
+Sample_467
+Product Type: Animal fibers
+Species: parrot
+
+Sample_468
+Product Type: Animal parts (bone or bone-like)
+Species: wild boar
+
+Sample_469
+Product Type: Unknown
+Species: ross
+
+Sample_470
+Product Type: Animal fibers
+Species: parrot
+
+Sample_471
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_472
+Product Type: Animal fibers
+Species: pheasant
+
+Sample_473
+Product Type: Animal parts (bone or bone-like)
+Species: freshwater crocodile
+
+Sample_474
+Product Type: Animal parts (bone or bone-like)
+Species: bay
+
+Sample_475
+Product Type: Unknown
+Species: peyote
+
+Sample_476
+Product Type: Animal parts (bone or bone-like)
+Species: clouded leopard
+
+Sample_477
+Product Type: Unknown
+Species: springbok
+
+Sample_478
+Product Type: Unknown
+Species: alligator
+
+Sample_479
+Product Type: Animal fibers
+Species: peyote
+
+Sample_480
+Product Type: Animal fibers
+Species: lady amherst's pheasant
+
+Sample_481
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_482
+Product Type: Animal parts (bone or bone-like)
+Species: water buffalo
+
+Sample_483
+Product Type: Unknown
+Species: cocktail
+
+Sample_484
+Product Type: Unknown
+Species: kaka
+
+Sample_485
+Product Type: Animal fibers
+Species: parrot
+
+Sample_486
+Product Type: Skin or leather products
+Species: royal blue
+
+Sample_487
+Product Type: Unknown
+Species: belvedere
+
+Sample_488
+Product Type: Unknown
+Species: antler
+
+Sample_489
+Product Type: Skin or leather products
+Species: horse
+
+Sample_490
+Product Type: Unknown
+Species: chinchilla
+
+Sample_491
+Product Type: Animal fibers
+Species: sheep
+
+Sample_492
+Product Type: Taxidermy
+Species: chital
+
+Sample_493
+Product Type: Unknown
+Species: silver
+
+Sample_494
+Product Type: Animal parts (bone or bone-like)
+Species: von der decken's hornbill
+
+Sample_495
+Product Type: Unknown
+Species: leopard cone
+
+Sample_496
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_497
+Product Type: Unknown
+Species: crocodile
+
+Sample_498
+Product Type: Unknown
+Species: coco
+
+Sample_499
+Product Type: Unknown
+Species: german
+
+Sample_500
+Product Type: Unknown
+Species: negro
+
+Sample_501
+Product Type: Unknown
+Species: coco
+
+Sample_502
+Product Type: Unknown
+Species: rabbit
+
+Sample_503
+Product Type: Animal parts (bone or bone-like)
+Species: monkey
+
+Sample_504
+Product Type: Skin or leather products
+Species: lizard
+
+Sample_505
+Product Type: Unknown
+Species: muflon
+
+Sample_506
+Product Type: Unknown
+Species: dog
+
+Sample_507
+Product Type: Unknown
+Species: silver
+
+Sample_508
+Product Type: Unknown
+Species: deer
+
+Sample_509
+Product Type: Unknown
+Species: grand cayman iguana
+
+Sample_510
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_511
+Product Type: Animal fibers
+Species: red tail
+
+Sample_512
+Product Type: Unknown
+Species: kasturi
+
+Sample_513
+Product Type: Unknown
+Species: vervet
+
+Sample_514
+Product Type: Unknown
+Species: Unknown
+
+Sample_515
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_516
+Product Type: Skin or leather products
+Species: buck
+
+Sample_517
+Product Type: Unknown
+Species: bay
+
+Sample_518
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_519
+Product Type: Animal fibers
+Species: parrot
+
+Sample_520
+Product Type: Unknown
+Species: crocodile
+
+Sample_521
+Product Type: Skin or leather products
+Species: boa constrictor
+
+Sample_522
+Product Type: Unknown
+Species: ren
+
+Sample_523
+Product Type: Unknown
+Species: white fox
+
+Sample_524
+Product Type: Unknown
+Species: parrot
+
+Sample_525
+Product Type: Skin or leather products
+Species: black
+
+Sample_526
+Product Type: Unknown
+Species: whale
+
+Sample_527
+Product Type: Animal parts (bone or bone-like)
+Species: tiger
+
+Sample_528
+Product Type: Skin or leather products
+Species: siamese crocodile
+
+Sample_529
+Product Type: Unknown
+Species: bat
+
+Sample_530
+Product Type: Unknown
+Species: heron
+
+Sample_531
+Product Type: Animal fibers
+Species: red tail
+
+Sample_532
+Product Type: Unknown
+Species: crocodile
+
+Sample_533
+Product Type: Animal parts (bone or bone-like)
+Species: wild boar
+
+Sample_534
+Product Type: Animal parts (bone or bone-like)
+Species: bobcat
+
+Sample_535
+Product Type: Unknown
+Species: bird
+
+Sample_536
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_537
+Product Type: Unknown
+Species: rhinoceros
+
+Sample_538
+Product Type: Unknown
+Species: chinchilla
+
+Sample_539
+Product Type: Unknown
+Species: alligator
+
+Sample_540
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_541
+Product Type: Unknown
+Species: antler
+
+Sample_542
+Product Type: Unknown
+Species: coco
+
+Sample_543
+Product Type: Unknown
+Species: drill
+
+Sample_544
+Product Type: Unknown
+Species: muflon
+
+Sample_545
+Product Type: Unknown
+Species: common minke whale
+
+Sample_546
+Product Type: Skin or leather products
+Species: boot
+
+Sample_547
+Product Type: Skin or leather products
+Species: alligator lizard
+
+Sample_548
+Product Type: Animal fibers
+Species: pheasant
+
+Sample_549
+Product Type: Skin or leather products
+Species: siamese crocodile
+
+Sample_550
+Product Type: Animal fibers
+Species: macaw
+
+Sample_551
+Product Type: Unknown
+Species: zona
+
+Sample_552
+Product Type: Unknown
+Species: cow
+
+Sample_553
+Product Type: Animal parts (bone or bone-like)
+Species: mosasaur
+
+Sample_554
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_555
+Product Type: Skin or leather products
+Species: siamese crocodile
+
+Sample_556
+Product Type: Unknown
+Species: chinchilla
+
+Sample_557
+Product Type: Unknown
+Species: belvedere
+
+Sample_558
+Product Type: Unknown
+Species: southern minke whale
+
+Sample_559
+Product Type: Unknown
+Species: kasturi
+
+Sample_560
+Product Type: Unknown
+Species: mal
+
+Sample_561
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_562
+Product Type: Unknown
+Species: deer
+
+Sample_563
+Product Type: Unknown
+Species: antelope
+
+Sample_564
+Product Type: Taxidermy
+Species: blue wildebeest
+
+Sample_565
+Product Type: Animal fibers
+Species: hyacinth macaw
+
+Sample_566
+Product Type: Unknown
+Species: coco
+
+Sample_567
+Product Type: Unknown
+Species: bay
+
+Sample_568
+Product Type: Unknown
+Species: ferrets
+
+Sample_569
+Product Type: Animal fibers
+Species: parrot
+
+Sample_570
+Product Type: Skin or leather products
+Species: siamese crocodile
+
+Sample_571
+Product Type: Unknown
+Species: crocodile
+
+Sample_572
+Product Type: Animal fibers
+Species: north american river otter
+
+Sample_573
+Product Type: Animal parts (bone or bone-like)
+Species: mulet
+
+Sample_574
+Product Type: Skin or leather products
+Species: siamese crocodile
+
+Sample_575
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_576
+Product Type: Animal fibers
+Species: parrot
+
+Sample_577
+Product Type: Animal fibers
+Species: bay
+
+Sample_578
+Product Type: Animal fibers
+Species: parrot
+
+Sample_579
+Product Type: Animal fibers
+Species: pheasant
+
+Sample_580
+Product Type: Animal fibers
+Species: blue fox
+
+Sample_581
+Product Type: Animal fibers
+Species: turquoise blue
+
+Sample_582
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_583
+Product Type: Ivory products
+Species: leopard
+
+Sample_584
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_585
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_586
+Product Type: Unknown
+Species: chinese
+
+Sample_587
+Product Type: Unknown
+Species: Unknown
+
+Sample_588
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_589
+Product Type: Unknown
+Species: python
+
+Sample_590
+Product Type: Skin or leather products
+Species: new zealand
+
+Sample_591
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_592
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_593
+Product Type: Skin or leather products
+Species: siamese crocodile
+
+Sample_594
+Product Type: Skin or leather products
+Species: jack
+
+Sample_595
+Product Type: Unknown
+Species: chinchilla
+
+Sample_596
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_597
+Product Type: Unknown
+Species: chinchilla
+
+Sample_598
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_599
+Product Type: Animal parts (bone or bone-like)
+Species: sixgill shark
+
+Sample_600
+Product Type: Unknown
+Species: large
+
+Sample_601
+Product Type: Taxidermy
+Species: swamp
+
+Sample_602
+Product Type: Unknown
+Species: cow
+
+Sample_603
+Product Type: Unknown
+Species: crocodile
+
+Sample_604
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_605
+Product Type: Unknown
+Species: crocodile
+
+Sample_606
+Product Type: Skin or leather products
+Species: butt
+
+Sample_607
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_608
+Product Type: Animal fibers
+Species: black
+
+Sample_609
+Product Type: Unknown
+Species: ide
+
+Sample_610
+Product Type: Taxidermy
+Species: dwarf forest buffalo
+
+Sample_611
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_612
+Product Type: Unknown
+Species: reed
+
+Sample_613
+Product Type: Animal fibers
+Species: oat
+
+Sample_614
+Product Type: Unknown
+Species: otter
+
+Sample_615
+Product Type: Skin or leather products
+Species: leather coat
+
+Sample_616
+Product Type: Insects
+Species: ichneumon wasp
+
+Sample_617
+Product Type: Unknown
+Species: butterfly
+
+Sample_618
+Product Type: Animal parts (bone or bone-like)
+Species: tiger shark
+
+Sample_619
+Product Type: Animal fibers
+Species: blue fox
+
+Sample_620
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_621
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_622
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_623
+Product Type: Skin or leather products
+Species: animal
+
+Sample_624
+Product Type: Insects
+Species: poplar
+
+Sample_625
+Product Type: Unknown
+Species: billet
+
+Sample_626
+Product Type: Animal fibers
+Species: jack
+
+Sample_627
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_628
+Product Type: Skin or leather products
+Species: olive
+
+Sample_629
+Product Type: Animal fibers
+Species: rabbit
+
+Sample_630
+Product Type: Unknown
+Species: chinchilla
+
+Sample_631
+Product Type: Unknown
+Species: amphibians
+
+Sample_632
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_633
+Product Type: Taxidermy
+Species: sheep
+
+Sample_634
+Product Type: Unknown
+Species: lizard
+
+Sample_635
+Product Type: Skin or leather products
+Species: boa constrictor
+
+Sample_636
+Product Type: Animal fibers
+Species: cockatoo
+
+Sample_637
+Product Type: Unknown
+Species: wolverine
+
+Sample_638
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_639
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_640
+Product Type: Animal fibers
+Species: parrot
+
+Sample_641
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_642
+Product Type: Shells
+Species: leopard
+
+Sample_643
+Product Type: Animal parts (bone or bone-like)
+Species: north american river otter
+
+Sample_644
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_645
+Product Type: Animal fibers
+Species: mink
+
+Sample_646
+Product Type: Unknown
+Species: crocodile
+
+Sample_647
+Product Type: Unknown
+Species: chinchilla
+
+Sample_648
+Product Type: Unknown
+Species: bay
+
+Sample_649
+Product Type: Unknown
+Species: clearwing
+
+Sample_650
+Product Type: Skin or leather products
+Species: black
+
+Sample_651
+Product Type: Animal fibers
+Species: red fox
+
+Sample_652
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_653
+Product Type: Unknown
+Species: cow
+
+Sample_654
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_655
+Product Type: Skin or leather products
+Species: siamese crocodile
+
+Sample_656
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_657
+Product Type: Unknown
+Species: pheasant
+
+Sample_658
+Product Type: Animal fibers
+Species: duck
+
+Sample_659
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_660
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_661
+Product Type: Shells
+Species: leopard cone
+
+Sample_662
+Product Type: Taxidermy
+Species: antler
+
+Sample_663
+Product Type: Unknown
+Species: crocodile
+
+Sample_664
+Product Type: Skin or leather products
+Species: hump
+
+Sample_665
+Product Type: Unknown
+Species: blue mustard
+
+Sample_666
+Product Type: Unknown
+Species: crocodile
+
+Sample_667
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_668
+Product Type: Unknown
+Species: north american river otter
+
+Sample_669
+Product Type: Animal fibers
+Species: himalayan monal
+
+Sample_670
+Product Type: Animal fibers
+Species: bellis
+
+Sample_671
+Product Type: Unknown
+Species: rocket
+
+Sample_672
+Product Type: Unknown
+Species: black
+
+Sample_673
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_674
+Product Type: Unknown
+Species: antler
+
+Sample_675
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_676
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_677
+Product Type: Unknown
+Species: american alligator
+
+Sample_678
+Product Type: Unknown
+Species: tern
+
+Sample_679
+Product Type: Unknown
+Species: boot
+
+Sample_680
+Product Type: Taxidermy
+Species: fallow deer
+
+Sample_681
+Product Type: Taxidermy
+Species: sable antelope
+
+Sample_682
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_683
+Product Type: Skin or leather products
+Species: python
+
+Sample_684
+Product Type: Skin or leather products
+Species: sheep
+
+Sample_685
+Product Type: Unknown
+Species: american alligator
+
+Sample_686
+Product Type: Animal parts (bone or bone-like)
+Species: wild boar
+
+Sample_687
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_688
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_689
+Product Type: Animal fibers
+Species: macaw
+
+Sample_690
+Product Type: Unknown
+Species: black
+
+Sample_691
+Product Type: Animal parts (bone or bone-like)
+Species: bracelet
+
+Sample_692
+Product Type: Animal fibers
+Species: blue fox
+
+Sample_693
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_694
+Product Type: Skin or leather products
+Species: ren
+
+Sample_695
+Product Type: Unknown
+Species: ostrich
+
+Sample_696
+Product Type: Unknown
+Species: zona
+
+Sample_697
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_698
+Product Type: Animal fibers
+Species: yellow pearl
+
+Sample_699
+Product Type: Unknown
+Species: muflon
+
+Sample_700
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_701
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_702
+Product Type: Unknown
+Species: muflon
+
+Sample_703
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_704
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_705
+Product Type: Unknown
+Species: muflon
+
+Sample_706
+Product Type: Unknown
+Species: chinchilla
+
+Sample_707
+Product Type: Skin or leather products
+Species: tern
+
+Sample_708
+Product Type: Skin or leather products
+Species: black
+
+Sample_709
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_710
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_711
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_712
+Product Type: Unknown
+Species: cow
+
+Sample_713
+Product Type: Animal fibers
+Species: beaver
+
+Sample_714
+Product Type: Skin or leather products
+Species: black
+
+Sample_715
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_716
+Product Type: Taxidermy
+Species: mule deer
+
+Sample_717
+Product Type: Unknown
+Species: alligator
+
+Sample_718
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_719
+Product Type: Skin or leather products
+Species: burchell's zebra
+
+Sample_720
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_721
+Product Type: Skin or leather products
+Species: leather skin
+
+Sample_722
+Product Type: Unknown
+Species: muflon
+
+Sample_723
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_724
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_725
+Product Type: Animal fibers
+Species: pretty
+
+Sample_726
+Product Type: Animal fibers
+Species: pheasant
+
+Sample_727
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_728
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_729
+Product Type: Animal fibers
+Species: silver fox
+
+Sample_730
+Product Type: Taxidermy
+Species: parakeet
+
+Sample_731
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_732
+Product Type: Animal fibers
+Species: macaw
+
+Sample_733
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_734
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_735
+Product Type: Animal fibers
+Species: parrot
+
+Sample_736
+Product Type: Skin or leather products
+Species: lizard
+
+Sample_737
+Product Type: Skin or leather products
+Species: eurasian siskin
+
+Sample_738
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_739
+Product Type: Unknown
+Species: tern
+
+Sample_740
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_741
+Product Type: Unknown
+Species: african elephant
+
+Sample_742
+Product Type: Skin or leather products
+Species: black
+
+Sample_743
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_744
+Product Type: Unknown
+Species: alligator
+
+Sample_745
+Product Type: Skin or leather products
+Species: leather skin
+
+Sample_746
+Product Type: Animal fibers
+Species: macaw
+
+Sample_747
+Product Type: Unknown
+Species: chinchilla
+
+Sample_748
+Product Type: Animal fibers
+Species: fox
+
+Sample_749
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_750
+Product Type: Animal fibers
+Species: timber wolf
+
+Sample_751
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_752
+Product Type: Animal parts (bone or bone-like)
+Species: animal
+
+Sample_753
+Product Type: Powder
+Species: trumpet
+
+Sample_754
+Product Type: Animal fibers
+Species: new zealand
+
+Sample_755
+Product Type: Unknown
+Species: potto
+
+Sample_756
+Product Type: Animal fibers
+Species: macaw
+
+Sample_757
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_758
+Product Type: Animal fibers
+Species: blue fox
+
+Sample_759
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_760
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_761
+Product Type: Skin or leather products
+Species: black
+
+Sample_762
+Product Type: Skin or leather products
+Species: leather skin
+
+Sample_763
+Product Type: Animal fibers
+Species: blue eared pheasant
+
+Sample_764
+Product Type: Unknown
+Species: tur
+
+Sample_765
+Product Type: Animal fibers
+Species: parrot
+
+Sample_766
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_767
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_768
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_769
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_770
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_771
+Product Type: Unknown
+Species: new zealand
+
+Sample_772
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_773
+Product Type: Unknown
+Species: wall
+
+Sample_774
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_775
+Product Type: Unknown
+Species: antler
+
+Sample_776
+Product Type: Animal fibers
+Species: raccoon
+
+Sample_777
+Product Type: Animal fibers
+Species: swinhoe's pheasant
+
+Sample_778
+Product Type: Unknown
+Species: crocodile
+
+Sample_779
+Product Type: Animal fibers
+Species: grey
+
+Sample_780
+Product Type: Animal fibers
+Species: oat
+
+Sample_781
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_782
+Product Type: Skin or leather products
+Species: fallow deer
+
+Sample_783
+Product Type: Unknown
+Species: horse
+
+Sample_784
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_785
+Product Type: Skin or leather products
+Species: black
+
+Sample_786
+Product Type: Unknown
+Species: chai
+
+Sample_787
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_788
+Product Type: Animal fibers
+Species: blue fox
+
+Sample_789
+Product Type: Animal fibers
+Species: sable
+
+Sample_790
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_791
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_792
+Product Type: Unknown
+Species: antler
+
+Sample_793
+Product Type: Unknown
+Species: turkey
+
+Sample_794
+Product Type: Animal fibers
+Species: macaw
+
+Sample_795
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_796
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_797
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_798
+Product Type: Unknown
+Species: mountain sheep
+
+Sample_799
+Product Type: Unknown
+Species: giant betta
+
+Sample_800
+Product Type: Animal fibers
+Species: pink parrot
+
+Sample_801
+Product Type: Animal fibers
+Species: macaw
+
+Sample_802
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_803
+Product Type: Unknown
+Species: new zealand
+
+Sample_804
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_805
+Product Type: Animal fibers
+Species: parrot
+
+Sample_806
+Product Type: Unknown
+Species: ancho
+
+Sample_807
+Product Type: Unknown
+Species: tur
+
+Sample_808
+Product Type: Skin or leather products
+Species: zebra
+
+Sample_809
+Product Type: Skin or leather products
+Species: deer
+
+Sample_810
+Product Type: Animal parts (bone or bone-like)
+Species: black
+
+Sample_811
+Product Type: Shells
+Species: animal
+
+Sample_812
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_813
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_814
+Product Type: Animal fibers
+Species: pheasant
+
+Sample_815
+Product Type: Skin or leather products
+Species: rabbit
+
+Sample_816
+Product Type: Animal fibers
+Species: leather jacket
+
+Sample_817
+Product Type: Unknown
+Species: mink
+
+Sample_818
+Product Type: Unknown
+Species: alligator
+
+Sample_819
+Product Type: Skin or leather products
+Species: sheep
+
+Sample_820
+Product Type: Animal parts (bone or bone-like)
+Species: horse
+
+Sample_821
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_822
+Product Type: Unknown
+Species: crocodile
+
+Sample_823
+Product Type: Unknown
+Species: chinchilla
+
+Sample_824
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_825
+Product Type: Unknown
+Species: muflon
+
+Sample_826
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_827
+Product Type: Animal fibers
+Species: silver fox
+
+Sample_828
+Product Type: Unknown
+Species: black
+
+Sample_829
+Product Type: Unknown
+Species: mint
+
+Sample_830
+Product Type: Unknown
+Species: leopardo
+
+Sample_831
+Product Type: Unknown
+Species: prairie dog
+
+Sample_832
+Product Type: Unknown
+Species: coco
+
+Sample_833
+Product Type: Unknown
+Species: spot
+
+Sample_834
+Product Type: Animal parts (bone or bone-like)
+Species: wild boar
+
+Sample_835
+Product Type: Animal fibers
+Species: ocelot
+
+Sample_836
+Product Type: Unknown
+Species: red-crowned crane
+
+Sample_837
+Product Type: Animal fibers
+Species: black tip
+
+Sample_838
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_839
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_840
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_841
+Product Type: Skin or leather products
+Species: amber
+
+Sample_842
+Product Type: Taxidermy
+Species: big head
+
+Sample_843
+Product Type: Unknown
+Species: patch
+
+Sample_844
+Product Type: Unknown
+Species: alligator
+
+Sample_845
+Product Type: Animal fibers
+Species: crowned eagle
+
+Sample_846
+Product Type: Animal fibers
+Species: pheasant
+
+Sample_847
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_848
+Product Type: Unknown
+Species: bean
+
+Sample_849
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_850
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_851
+Product Type: Animal fibers
+Species: silver fox
+
+Sample_852
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_853
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_854
+Product Type: Shells
+Species: leopard
+
+Sample_855
+Product Type: Animal fibers
+Species: parrot
+
+Sample_856
+Product Type: Animal fibers
+Species: macaw
+
+Sample_857
+Product Type: Unknown
+Species: vampi
+
+Sample_858
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_859
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_860
+Product Type: Taxidermy
+Species: broadbill
+
+Sample_861
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_862
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_863
+Product Type: Live
+Species: sailfin mollie
+
+Sample_864
+Product Type: Animal fibers
+Species: silver pheasant
+
+Sample_865
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_866
+Product Type: Animal fibers
+Species: black cockatoo
+
+Sample_867
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_868
+Product Type: Skin or leather products
+Species: nile crocodile
+
+Sample_869
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_870
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_871
+Product Type: Unknown
+Species: crocodile
+
+Sample_872
+Product Type: Unknown
+Species: crocodile
+
+Sample_873
+Product Type: Animal fibers
+Species: blue fox
+
+Sample_874
+Product Type: Animal fibers
+Species: dingo
+
+Sample_875
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_876
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_877
+Product Type: Skin or leather products
+Species: goats
+
+Sample_878
+Product Type: Unknown
+Species: turtle
+
+Sample_879
+Product Type: Animal fibers
+Species: germain's peacock pheasant
+
+Sample_880
+Product Type: Animal fibers
+Species: pheasant
+
+Sample_881
+Product Type: Animal parts (bone or bone-like)
+Species: toothed herring
+
+Sample_882
+Product Type: Animal parts (bone or bone-like)
+Species: manatee
+
+Sample_883
+Product Type: Unknown
+Species: silver
+
+Sample_884
+Product Type: Skin or leather products
+Species: ocelot
+
+Sample_885
+Product Type: Skin or leather products
+Species: black
+
+Sample_886
+Product Type: Unknown
+Species: Unknown
+
+Sample_887
+Product Type: Unknown
+Species: human
+
+Sample_888
+Product Type: Unknown
+Species: crocodile
+
+Sample_889
+Product Type: Unknown
+Species: dragonfly
+
+Sample_890
+Product Type: Animal fibers
+Species: nicobar pigeon
+
+Sample_891
+Product Type: Unknown
+Species: crocodile
+
+Sample_892
+Product Type: Unknown
+Species: ocelot
+
+Sample_893
+Product Type: Shells
+Species: megalodon
+
+Sample_894
+Product Type: Taxidermy
+Species: nile crocodile
+
+Sample_895
+Product Type: Unknown
+Species: crocodile
+
+Sample_896
+Product Type: Insects
+Species: scorpion
+
+Sample_897
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_898
+Product Type: Unknown
+Species: mussel
+
+Sample_899
+Product Type: Unknown
+Species: eland
+
+Sample_900
+Product Type: Unknown
+Species: nutria
+
+Sample_901
+Product Type: Unknown
+Species: ren
+
+Sample_902
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_903
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_904
+Product Type: Shells
+Species: leopard cone
+
+Sample_905
+Product Type: Skin or leather products
+Species: monitor lizard
+
+Sample_906
+Product Type: Ivory products
+Species: elephant
+
+Sample_907
+Product Type: Shells
+Species: mammoth
+
+Sample_908
+Product Type: Skin or leather products
+Species: tern
+
+Sample_909
+Product Type: Shells
+Species: bay
+
+Sample_910
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_911
+Product Type: Unknown
+Species: bobcat
+
+Sample_912
+Product Type: Shells
+Species: cowry
+
+Sample_913
+Product Type: Unknown
+Species: crocodile
+
+Sample_914
+Product Type: Skin or leather products
+Species: monitor lizard
+
+Sample_915
+Product Type: Skin or leather products
+Species: monitor lizard
+
+Sample_916
+Product Type: Skin or leather products
+Species: stingray
+
+Sample_917
+Product Type: Unknown
+Species: large
+
+Sample_918
+Product Type: Taxidermy
+Species: ide
+
+Sample_919
+Product Type: Taxidermy
+Species: black bear
+
+Sample_920
+Product Type: Taxidermy
+Species: wall
+
+Sample_921
+Product Type: Unknown
+Species: giant armadillo
+
+Sample_922
+Product Type: Skin or leather products
+Species: stingray
+
+Sample_923
+Product Type: Skin or leather products
+Species: monitor lizard
+
+Sample_924
+Product Type: Skin or leather products
+Species: tick
+
+Sample_925
+Product Type: Skin or leather products
+Species: ostrich
+
+Sample_926
+Product Type: Unknown
+Species: colo
+
+Sample_927
+Product Type: Ivory products
+Species: alpaca
+
+Sample_928
+Product Type: Unknown
+Species: bluntnose sixgill shark
+
+Sample_929
+Product Type: Unknown
+Species: colo
+
+Sample_930
+Product Type: Animal parts (bone or bone-like)
+Species: mulet
+
+Sample_931
+Product Type: Shells
+Species: leopard
+
+Sample_932
+Product Type: Unknown
+Species: crocodile
+
+Sample_933
+Product Type: Skin or leather products
+Species: monitor lizard
+
+Sample_934
+Product Type: Unknown
+Species: marl
+
+Sample_935
+Product Type: Animal fibers
+Species: germain's peacock pheasant
+
+Sample_936
+Product Type: Skin or leather products
+Species: caiman
+
+Sample_937
+Product Type: Animal fibers
+Species: black
+
+Sample_938
+Product Type: Unknown
+Species: crocodile
+
+Sample_939
+Product Type: Shells
+Species: white spot
+
+Sample_940
+Product Type: Skin or leather products
+Species: boa constrictor
+
+Sample_941
+Product Type: Unknown
+Species: pheasant
+
+Sample_942
+Product Type: Taxidermy
+Species: ide
+
+Sample_943
+Product Type: Animal parts (bone or bone-like)
+Species: dugong
+
+Sample_944
+Product Type: Unknown
+Species: leopard
+
+Sample_945
+Product Type: Coral product
+Species: coral
+
+Sample_946
+Product Type: Unknown
+Species: white abalone
+
+Sample_947
+Product Type: Unknown
+Species: ti
+
+Sample_948
+Product Type: Unknown
+Species: marmot
+
+Sample_949
+Product Type: Unknown
+Species: cave bear
+
+Sample_950
+Product Type: Unknown
+Species: raccoon
+
+Sample_951
+Product Type: Unknown
+Species: iguana
+
+Sample_952
+Product Type: Unknown
+Species: black
+
+Sample_953
+Product Type: Animal fibers
+Species: roller
+
+Sample_954
+Product Type: Animal fibers
+Species: pheasant
+
+Sample_955
+Product Type: Taxidermy
+Species: silver
+
+Sample_956
+Product Type: Unknown
+Species: turtles
+
+Sample_957
+Product Type: Animal fibers
+Species: antelope
+
+Sample_958
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_959
+Product Type: Unknown
+Species: scorpion
+
+Sample_960
+Product Type: Unknown
+Species: coyote
+
+Sample_961
+Product Type: Unknown
+Species: fox
+
+Sample_962
+Product Type: Unknown
+Species: black
+
+Sample_963
+Product Type: Unknown
+Species: urus
+
+Sample_964
+Product Type: Shells
+Species: turtle
+
+Sample_965
+Product Type: Coral product
+Species: coral necklace
+
+Sample_966
+Product Type: Skin or leather products
+Species: italian
+
+Sample_967
+Product Type: Unknown
+Species: sheep
+
+Sample_968
+Product Type: Skin or leather products
+Species: bobby
+
+Sample_969
+Product Type: Unknown
+Species: bronze
+
+Sample_970
+Product Type: Unknown
+Species: crocodile
+
+Sample_971
+Product Type: Unknown
+Species: alligator
+
+Sample_972
+Product Type: Unknown
+Species: crocodile
+
+Sample_973
+Product Type: Unknown
+Species: crocodile
+
+Sample_974
+Product Type: Unknown
+Species: crocodile
+
+Sample_975
+Product Type: Insects
+Species: orange moth
+
+Sample_976
+Product Type: Animal parts (bone or bone-like)
+Species: sloth
+
+Sample_977
+Product Type: Unknown
+Species: ostrich
+
+Sample_978
+Product Type: Unknown
+Species: crocodile
+
+Sample_979
+Product Type: Unknown
+Species: black
+
+Sample_980
+Product Type: Unknown
+Species: mate
+
+Sample_981
+Product Type: Unknown
+Species: belvedere
+
+Sample_982
+Product Type: Unknown
+Species: springbok
+
+Sample_983
+Product Type: Skin or leather products
+Species: silver
+
+Sample_984
+Product Type: Unknown
+Species: silver
+
+Sample_985
+Product Type: Unknown
+Species: ash
+
+Sample_986
+Product Type: Skin or leather products
+Species: snake
+
+Sample_987
+Product Type: Unknown
+Species: freshwater catfish
+
+Sample_988
+Product Type: Unknown
+Species: crocodile
+
+Sample_989
+Product Type: Unknown
+Species: crocodile
+
+Sample_990
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_991
+Product Type: Taxidermy
+Species: ide
+
+Sample_992
+Product Type: Shells
+Species: cowrie
+
+Sample_993
+Product Type: Unknown
+Species: spider
+
+Sample_994
+Product Type: Unknown
+Species: cave bear
+
+Sample_995
+Product Type: Unknown
+Species: cockroach
+
+Sample_996
+Product Type: Taxidermy
+Species: field vole
+
+Sample_997
+Product Type: Unknown
+Species: black
+
+Sample_998
+Product Type: Unknown
+Species: bobcat
+
+Sample_999
+Product Type: Unknown
+Species: oo
+
+Sample_1000
+Product Type: Animal fibers
+Species: germain's peacock pheasant
+
+Sample_1001
+Product Type: Taxidermy
+Species: black bear
+
+Sample_1002
+Product Type: Skin or leather products
+Species: black lizard
+
+Sample_1003
+Product Type: Animal fibers
+Species: pheasant
+
+Sample_1004
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_1005
+Product Type: Unknown
+Species: leopard cone
+
+Sample_1006
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_1007
+Product Type: Unknown
+Species: flying fox
+
+Sample_1008
+Product Type: Unknown
+Species: leopard
+
+Sample_1009
+Product Type: Unknown
+Species: black
+
+Sample_1010
+Product Type: Unknown
+Species: alligator
+
+Sample_1011
+Product Type: Animal parts (bone or bone-like)
+Species: mulet
+
+Sample_1012
+Product Type: Unknown
+Species: marten
+
+Sample_1013
+Product Type: Unknown
+Species: black
+
+Sample_1014
+Product Type: Unknown
+Species: oreodont
+
+Sample_1015
+Product Type: Unknown
+Species: bat
+
+Sample_1016
+Product Type: Unknown
+Species: rn
+
+Sample_1017
+Product Type: Unknown
+Species: Unknown
+
+Sample_1018
+Product Type: Unknown
+Species: raccoon dog
+
+Sample_1019
+Product Type: Taxidermy
+Species: grosbeaks
+
+Sample_1020
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_1021
+Product Type: Unknown
+Species: ash
+
+Sample_1022
+Product Type: Unknown
+Species: bracelet
+
+Sample_1023
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_1024
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_1025
+Product Type: Animal parts (bone or bone-like)
+Species: mako shark
+
+Sample_1026
+Product Type: Taxidermy
+Species: raccoon
+
+Sample_1027
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_1028
+Product Type: Animal parts (bone or bone-like)
+Species: human
+
+Sample_1029
+Product Type: Unknown
+Species: turkey
+
+Sample_1030
+Product Type: Unknown
+Species: panther
+
+Sample_1031
+Product Type: Animal parts (bone or bone-like)
+Species: river otter
+
+Sample_1032
+Product Type: Unknown
+Species: scorpion
+
+Sample_1033
+Product Type: Unknown
+Species: crocodile
+
+Sample_1034
+Product Type: Unknown
+Species: black lizard
+
+Sample_1035
+Product Type: Unknown
+Species: crocodile
+
+Sample_1036
+Product Type: Animal fibers
+Species: north american river otter
+
+Sample_1037
+Product Type: Animal parts (bone or bone-like)
+Species: wild boar
+
+Sample_1038
+Product Type: Unknown
+Species: oat
+
+Sample_1039
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_1040
+Product Type: Animal parts (bone or bone-like)
+Species: dugong
+
+Sample_1041
+Product Type: Skin or leather products
+Species: boot
+
+Sample_1042
+Product Type: Taxidermy
+Species: white
+
+Sample_1043
+Product Type: Shells
+Species: leopard
+
+Sample_1044
+Product Type: Insects
+Species: scorpion
+
+Sample_1045
+Product Type: Unknown
+Species: silver
+
+Sample_1046
+Product Type: Unknown
+Species: cow
+
+Sample_1047
+Product Type: Skin or leather products
+Species: goat
+
+Sample_1048
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_1049
+Product Type: Skin or leather products
+Species: lizard
+
+Sample_1050
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_1051
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_1052
+Product Type: Unknown
+Species: giant armadillo
+
+Sample_1053
+Product Type: Animal fibers
+Species: italian
+
+Sample_1054
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_1055
+Product Type: Unknown
+Species: yellow-billed stork
+
+Sample_1056
+Product Type: Animal parts (bone or bone-like)
+Species: mulet
+
+Sample_1057
+Product Type: Shells
+Species: bivalve
+
+Sample_1058
+Product Type: Shells
+Species: leopard cone
+
+Sample_1059
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_1060
+Product Type: Unknown
+Species: boot
+
+Sample_1061
+Product Type: Animal fibers
+Species: cockatoo
+
+Sample_1062
+Product Type: Skin or leather products
+Species: green lizard
+
+Sample_1063
+Product Type: Shells
+Species: leopard cone
+
+Sample_1064
+Product Type: Skin or leather products
+Species: lizard
+
+Sample_1065
+Product Type: Unknown
+Species: chinchilla
+
+Sample_1066
+Product Type: Skin or leather products
+Species: black
+
+Sample_1067
+Product Type: Unknown
+Species: giant armadillo
+
+Sample_1068
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_1069
+Product Type: Animal fibers
+Species: raccoon
+
+Sample_1070
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_1071
+Product Type: Unknown
+Species: bay
+
+Sample_1072
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_1073
+Product Type: Animal parts (bone or bone-like)
+Species: wild boar
+
+Sample_1074
+Product Type: Unknown
+Species: hop
+
+Sample_1075
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_1076
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_1077
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_1078
+Product Type: Animal fibers
+Species: pheasant
+
+Sample_1079
+Product Type: Unknown
+Species: crocodile
+
+Sample_1080
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_1081
+Product Type: Skin or leather products
+Species: alligator
+
+Sample_1082
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_1083
+Product Type: Skin or leather products
+Species: chinchilla
+
+Sample_1084
+Product Type: Live
+Species: epaulette fish
+
+Sample_1085
+Product Type: Skin or leather products
+Species: leather skin
+
+Sample_1086
+Product Type: Animal parts (bone or bone-like)
+Species: giant armadillo
+
+Sample_1087
+Product Type: Taxidermy
+Species: pheasant
+
+Sample_1088
+Product Type: Animal parts (bone or bone-like)
+Species: mammoth
+
+Sample_1089
+Product Type: Unknown
+Species: drill
+
+Sample_1090
+Product Type: Skin or leather products
+Species: lizard
+
+Sample_1091
+Product Type: Skin or leather products
+Species: siamese crocodile
+
+Sample_1092
+Product Type: Skin or leather products
+Species: black lizard
+
+Sample_1093
+Product Type: Unknown
+Species: alligator
+
+Sample_1094
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_1095
+Product Type: Skin or leather products
+Species: lizard
+
+Sample_1096
+Product Type: Unknown
+Species: bracelet
+
+Sample_1097
+Product Type: Unknown
+Species: alligator
+
+Sample_1098
+Product Type: Unknown
+Species: crocodile
+
+Sample_1099
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_1100
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_1101
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_1102
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_1103
+Product Type: Unknown
+Species: dill
+
+Sample_1104
+Product Type: Skin or leather products
+Species: lizard
+
+Sample_1105
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_1106
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_1107
+Product Type: Unknown
+Species: oat
+
+Sample_1108
+Product Type: Skin or leather products
+Species: leather jacket
+
+Sample_1109
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_1110
+Product Type: Animal fibers
+Species: chinchilla
+
+Sample_1111
+Product Type: Skin or leather products
+Species: bracelet
+
+Sample_1112
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_1113
+Product Type: Shells
+Species: cowrie
+
+Sample_1114
+Product Type: Animal parts (bone or bone-like)
+Species: sloth
+
+Sample_1115
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_1116
+Product Type: Unknown
+Species: alligator
+
+Sample_1117
+Product Type: Taxidermy
+Species: bearded dragon
+
+Sample_1118
+Product Type: Skin or leather products
+Species: siamese crocodile
+
+Sample_1119
+Product Type: Skin or leather products
+Species: bay
+
+Sample_1120
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_1121
+Product Type: Animal parts (bone or bone-like)
+Species: dugong
+
+Sample_1122
+Product Type: Animal parts (bone or bone-like)
+Species: bison
+
+Sample_1123
+Product Type: Animal fibers
+Species: mink
+
+Sample_1124
+Product Type: Unknown
+Species: crocodile
+
+Sample_1125
+Product Type: Skin or leather products
+Species: crocodile
+
+Sample_1126
+Product Type: Egg
+Species: peacock
+
+Sample_1127
+Product Type: Skin or leather products
+Species: boa constrictor
+
+Sample_1128
+Product Type: Shells
+Species: tortoise
+
+Sample_1129
+Product Type: Animal fibers
+Species: mink
+
+Sample_1130
+Product Type: Animal parts (bone or bone-like)
+Species: domine
+

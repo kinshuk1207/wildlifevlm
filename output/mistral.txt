@@ -1,0 +1,46 @@
+Sample_1
+Product Type: Skin or leather products
+            Species: Cyprian wild sheep
+
+Sample_2
+Product Type: None
+            Species: broad-snouted caiman (Melanosuchus niger)
+            (Note: The description provided does not match the title and does not indicate a product for sale. The title mentions a caiman for sale, but the description is about cowboy boots. Therefore, no product type can be determined from the given information.)
+
+Sample_3
+Based on the given text, it is not clear what species is being referred to in the title "four-toothed whale". The description mentions "three knives with a wooden handle and a knife with a handle", which do not appear to be related to the species mentioned in the title. Therefore, it is not possible to accurately determine the species or product type based on the provided information alone.
+
+Product Type: Unknown
+Species: Unknown
+
+Sample_4
+Based on the given title and description, it is not possible to accurately identify the species mentioned in the text. The title mentions a cameroon clawless otter, but the description shows a person holding a spider. These are two different species.
+            Therefore, I cannot provide an answer for the species or product type based on the given information.
+            However, if we assume that the title is correct and the description is just a mistake, then the answer would be:
+            "Product Type: Skin or leather products
+            Species: Cameroon cl
+
+Sample_5
+Product Type: Shells
+            Species: Madagascar flat-shelled tortoise
+
+Sample_6
+Product Type: Skin or leather products
+            Species: Crocodile (specific name not mentioned in the text)
+
+Sample_7
+Product Type: Animal parts (bone or bone-like)
+            Species: Human
+
+Sample_8
+Product Type: Animal parts (bone or bone-like)
+            Species: Human
+
+Sample_9
+Product Type: Animal parts (bone or bone-like)
+            Species: Human (pathological male)
+
+Sample_10
+Product Type: Animal parts (bone or bone-like)
+            Species: Meerkat
+
